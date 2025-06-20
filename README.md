@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Daniel Flores</h1>
 <h3 align="center">RPA Developer and UX/UI Designer</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/danielfloreschairez](https://www.behance.net/danielfloreschairez)
+- 👨‍💻 All of my UX/UI projects are available at [https://www.behance.net/danielfloreschairez](https://www.behance.net/danielfloreschairez)
+- I build bots to automate Finance and Business processes using Automation Anywhere A360.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
